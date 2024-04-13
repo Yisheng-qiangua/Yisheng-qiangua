@@ -6,7 +6,7 @@ A driven and proficient software engineer with a robust background in finance, s
 
 ## Experience
 
-**Software Engineering Bootcamp Student**
+**1 - Software Engineering Bootcamp Student**
 
 *HyperionDev · Full-time  |  Dec 2023 - Present · 4 mos  |  London · Remote*
 
@@ -21,7 +21,7 @@ A driven and proficient software engineer with a robust background in finance, s
 * Demonstrated proficiency in testing and debugging techniques, resolving issues promptly to optimize software performance.
 
 
-**Algorithmic Trader**
+**2 - Algorithmic Trader**
 
 *Jan 2021 - Dec 2022 · 2 yrs | London · On-site*
 
