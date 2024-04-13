@@ -1,6 +1,4 @@
-﻿# Yisheng-qiangua
-
-## About
+﻿## About
 
 A driven and proficient software engineer with a robust background in finance, seeking for a challenging role in software development. Equipped with advanced skills in Python, C++, Java, and Git, coupled with a solid grasp of data structures and algorithms. With 2 years of hands-on experience in Python, including Object-Oriented Programming (OOP), eager to leverage technical expertise alongside previous experience in the financial services sector. Enthusiasm, attention to detail, and strong organizational abilities are poised to contribute to team success. Highly motivated to continue learning, evolving, and excelling in the dynamic tech industry.
 
